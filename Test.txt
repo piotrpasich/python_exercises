@@ -1,0 +1,7 @@
+imie Jan
+nazwisko Kowalski
+nazwisko Kowalski2
+pesel 81101012312
+nip 4980129393
+wiek 33
+nazwisko Kowalsk3
