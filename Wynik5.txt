@@ -1,0 +1,4 @@
+linia1
+linia 2
+troszke dluzszy tekst do zapisania
+ale nie za dlugi
